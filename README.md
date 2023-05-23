@@ -6,6 +6,8 @@
 # test b
 # 试试将b分支合并为master分支
 # 试试在github上进行修改
+试试两头都修改，则是在工作区修改
+-------------------
 
 # Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition ([arxiv](https://arxiv.org/abs/2106.12368))
 
