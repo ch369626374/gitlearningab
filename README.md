@@ -5,6 +5,7 @@
 # 新增加室是gitpush
 # test b
 # 试试将b分支合并为master分支
+# 试试在github上进行修改
 
 # Vision Permutator: A Permutable MLP-Like Architecture for Visual Recognition ([arxiv](https://arxiv.org/abs/2106.12368))
 
